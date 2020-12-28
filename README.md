@@ -12,7 +12,7 @@ Nội dung:
 
 Chạy chương trình ở file trangchu.aspx có giao diện như hình  giới thiệu về trang báo.
 
-![image](Untitled.png)
+![image](anhkt/Untitled.png)
 
 Để xem chủ đề ấn vào mục chủ đề ở menu lúc đó sẽ có giao diện như hình , hiển thị id chủ đề và chủ đề c , có thể thêm id và chủ đề ở mục bên dưới .
 
