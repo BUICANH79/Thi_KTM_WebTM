@@ -1,0 +1,37 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="lienket.master.cs" Inherits="baithi.lienket" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+  
+    <link href="../App_Themes/Theme1/theme.css" rel="stylesheet" type="text/css" />
+  
+</head>
+<body>
+
+    <form id="form1" runat="server">
+        <div>
+                <header><a href="/"></a> </header>
+              <nav>
+            <ul>
+                <li><a id="A1" href="~/trangchu.aspx" runat="server">Trang chủ</a></li>
+                <li><a id="A2" href="~/bocuc/Chude.aspx" runat="server">Chủ đề</a></li>
+                <li><a id="A3" href="~/bocuc/Tacgia.aspx" runat="server">Tác giả</a></li>
+                <li><a id="A4" href="~/bocuc/Tintuc.aspx" runat="server">Tin tức</a></li>
+            </ul>
+        </nav>
+              <section id="MainContent">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+                    </section>  
+          
+           <footer> </footer>
+        </div>
+
+    </form>
+</body>
+</html>

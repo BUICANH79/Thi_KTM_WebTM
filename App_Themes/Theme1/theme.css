@@ -1,0 +1,92 @@
+﻿* {
+   
+    font-family: 'Bodoni MT';
+}
+
+body {
+    
+    margin: 0;
+    background-image: url('hinh/hihibonggif.gif');
+    background: #808080 ;
+    border-top: 2px outset #000000;
+    border-left: 2px outset #000000;
+    border-bottom: 2px outset #000000;
+    border-right: 2px outset #000000;
+}
+
+
+
+h1 {
+    
+    font-size: 20px;
+    color:red;
+}
+p
+
+{
+    color:aqua;
+}
+
+header {
+    
+    background-color: #0094ff;
+    margin-bottom: 20px;
+}
+
+    header a {
+   
+        background-image: url('hinh/Group00.png');
+        height: 150px;
+        display: block;
+     
+    }
+
+nav {
+    
+    border-top: 2px outset #000000;
+    border-left: 2px outset #000000;
+    border-bottom: 2px outset #000000;
+    border-right: 2px outset #000000;
+    border-radius: 15px 50px;
+  
+    width: 130px;
+    float: left;
+    padding: 50px;
+    padding-top: 0; 
+    background-image: url('hinh/anh-dong-226_113856.gif');
+    background: #0094ff;
+    margin-left: 35px;
+    margin-right: 20px;
+    font-size: 1.3em;
+}
+
+.FirstLevelMenuItems {
+    padding-top: 10px;
+}
+
+section#MainContent {
+   
+ 
+    border-top: 2px dotted #ff00dc;
+    border-left: 2px dotted #ff00dc;
+    border-bottom: 2px dotted #ff00dc;
+    border-right: 2px dotted #ff00dc;
+    background-image: url('hinh/1gif.gif');
+    color: white;
+    font-size: 1.3em;
+    width: 800px;
+    min-height: 490px;
+    padding: 10px;
+    float: left;
+}
+footer {
+    text-align: center;
+  
+    height: 73px;
+    line-height: 37px;
+    clear: both;
+    background-image: url('hinh/hinh-nen-dong-hoa-la-dep-1-89_104333420.gif');
+}
+
+
+
