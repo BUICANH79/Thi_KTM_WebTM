@@ -8,13 +8,14 @@
   
   + Ngày: 28/12/2020
   
-Nội dung: 
+## Nội dung: ##
 
 Chạy chương trình ở file trangchu.aspx có giao diện như hình  giới thiệu về trang báo.
 
 ![image](anhkt/trangchu.png)
 
-Để xem chủ đề ấn vào mục chủ đề ở menu lúc đó sẽ có giao diện như hình , hiển thị id chủ đề và chủ đề c , có thể thêm id và chủ đề ở mục bên dưới .
+Để xem chủ đề ấn vào mục chủ đề ở menu lúc đó sẽ có giao diện như hình , hiển thị id chủ đề và chủ đề  , có thể thêm id và chủ đề ở mục bên dưới nhập thông tin id và tên id và ấn Insert để cập nhập .
+
 
 ![image](anhkt/chude.png)
 
@@ -27,7 +28,7 @@ Tin tức được hiển thị ở mục cuối, có các thông tin về id ti
 
 ![image](anhkt/tintuc.png)
 
-##CÁC BẢN DỮ LIỆU##
+## CÁC BẢN DỮ LIỆU ##
 Bảng dữ liệu sql tin tức :
 
 ![image](anhkt/tintucbang.png)
